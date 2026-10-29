@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Smart EV Battery Health Monitoring and Predictive Maintenance System
 
 ## Project Overview
@@ -142,3 +143,7 @@ The intended outcome is a prototype for EV battery condition classification, wit
 **Under development — initial dataset analysis completed.**
 
 Final model performance, SoH/RUL prediction, and hardware integration remain subject to implementation and validation.
+=======
+# ev-battery-health-monitoring
+AI-based EV battery health monitoring and predictive maintenance using machine learning, with planned ESP32 and IoT integration.
+>>>>>>> origin/main
